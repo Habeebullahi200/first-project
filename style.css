@@ -1,0 +1,204 @@
+body{
+    margin: 0;
+    padding:0 ;
+    background-color: rgb(4, 35, 61);
+    color: white;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+/* .logo{
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    margin-right: 70px;
+    
+} */
+nav h2{
+    margin-right: 70px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 25px;
+    color: white;
+   
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+i{
+    background-color: white;
+}
+.men{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+}
+button{
+    width: 20%;
+    height: 7vh;
+    border-radius: 20px;
+    background-color: aqua;
+    color: white;
+}
+img{
+    
+}
+.men img{
+    width: 40%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.container img{
+    width: 10%;
+    background-color: aquamarine;
+    margin-left: 80px;
+}
+.girl{
+    width: 40%;
+}
+.boy{
+    width: 40%;
+}
+h4{
+    margin-left: 40px;
+}
+
+.container-fluid{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin-left: 80px;
+}
+.container-fluid img{
+    width: 10%;
+    background-color: aquamarine;
+    margin-left: 80px;
+}
+.cup{
+    width: 40%;
+}
+.pot{
+    width: 40%;
+}
+.bottle{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin-left: 80px;
+}
+.cover img{
+    width: 80%;
+}
+.cover{
+    width: 60%;
+}
+.wrap{
+    width: 80%;
+}
+.row{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 10%;
+
+}
+.first{
+    height: 165px;
+    width: 270px;
+    padding: 20px 35px;
+    background: #0f1233;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+.first img{
+    width: 20%;
+}
+.second{
+    height: 165px;
+    width: 270px;
+    padding: 20px 35px;
+    background: #0f1233;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+.third{
+    height: 165px;
+    width: 270px;
+    padding: 20px 35px;
+    background: #0f1233;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+.ball{
+    
+    height: 165px;
+    width: 635px;
+    padding: 20px 35px;
+    background: #0f1233;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 400px;
+    margin-top: 100px;
+
+}
+.ball p{
+    align-items: center;
+    margin-left: 30px;
+}
+input{
+    width: 60%;
+    height: 6vh;
+    border-radius: 20px;
+}
+.ball button{
+    width: 30%;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.footer-content{
+    width: 40%;
+    margin-left: 30px;
+    list-style: none;
+}
+.footer-content img{
+    background-color: white;
+}
